@@ -48,14 +48,15 @@ The following API endpoints are available:
 ### Data Model
 The application uses the following data model for employee records:
 
-json
-Copy code
+
+[code]
 {
   "id": 1,
   "name": "John Doe",
   "email": "john.doe@example.com",
   "department": "Sales"
 }
+[/code]
 ## Contributing
 Contributions to this project are welcome. If you find any issues or want to add new features, please create a pull request or submit an issue on the repository.
 
