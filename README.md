@@ -1,4 +1,4 @@
-# fast_simple_hrm
+# A Simple Employee Management with fast api
 This is a simple Employee Management Application built with the FastAPI framework. The application allows you to perform basic CRUD operations (Create, Read, Update, Delete) on employee records.
 
 ## Features
